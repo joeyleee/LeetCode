@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-30/734(133)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-39/738(133)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-0-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-3-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-12-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-27-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -10,7 +10,7 @@
 <p align="center">
     <b>Language: java</b>
     <br>
-    <b>Last updated: 2018-04-16</b>
+    <b>Last updated: 2018-04-24</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -21,8 +21,12 @@
 |001|[two-sum](https://leetcode.com/problems/two-sum/)| [java](.&#x2F;solutions&#x2F;001.two-sum&#x2F;two-sum.java)|Easy|37.91%||
 |020|[valid-parentheses](https://leetcode.com/problems/valid-parentheses/)| [java](.&#x2F;solutions&#x2F;020.valid-parentheses&#x2F;valid-parentheses.java)|Easy|33.97%||
 |021|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [java](.&#x2F;solutions&#x2F;021.merge-two-sorted-lists&#x2F;merge-two-sorted-lists.java)|Easy|41.00%||
+|022|[generate-parentheses](https://leetcode.com/problems/generate-parentheses/)| [java](.&#x2F;solutions&#x2F;022.generate-parentheses&#x2F;generate-parentheses.java)|Medium|48.18%||
+|046|[permutations](https://leetcode.com/problems/permutations/)| [java](.&#x2F;solutions&#x2F;046.permutations&#x2F;permutations.java)|Medium|47.48%||
 |053|[maximum-subarray](https://leetcode.com/problems/maximum-subarray/)| [java](.&#x2F;solutions&#x2F;053.maximum-subarray&#x2F;maximum-subarray.java)|Easy|40.27%||
 |070|[climbing-stairs](https://leetcode.com/problems/climbing-stairs/)| [java](.&#x2F;solutions&#x2F;070.climbing-stairs&#x2F;climbing-stairs.java)|Easy|41.18%||
+|078|[subsets](https://leetcode.com/problems/subsets/)| [java](.&#x2F;solutions&#x2F;078.subsets&#x2F;subsets.java)|Medium|44.96%||
+|094|[binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [java](.&#x2F;solutions&#x2F;094.binary-tree-inorder-traversal&#x2F;binary-tree-inorder-traversal.java)|Medium|49.91%||
 |101|[symmetric-tree](https://leetcode.com/problems/symmetric-tree/)| [java](.&#x2F;solutions&#x2F;101.symmetric-tree&#x2F;symmetric-tree.java)|Easy|40.35%||
 |104|[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [java](.&#x2F;solutions&#x2F;104.maximum-depth-of-binary-tree&#x2F;maximum-depth-of-binary-tree.java)|Easy|54.78%||
 |121|[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [java](.&#x2F;solutions&#x2F;121.best-time-to-buy-and-sell-stock&#x2F;best-time-to-buy-and-sell-stock.java)|Easy|42.86%||
@@ -35,13 +39,18 @@
 |206|[reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/)| [java](.&#x2F;solutions&#x2F;206.reverse-linked-list&#x2F;reverse-linked-list.java)|Easy|46.70%||
 |226|[invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/)| [java](.&#x2F;solutions&#x2F;226.invert-binary-tree&#x2F;invert-binary-tree.java)|Easy|53.24%||
 |234|[palindrome-linked-list](https://leetcode.com/problems/palindrome-linked-list/)| [java](.&#x2F;solutions&#x2F;234.palindrome-linked-list&#x2F;palindrome-linked-list.java)|Easy|33.42%||
+|238|[product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/)| [java](.&#x2F;solutions&#x2F;238.product-of-array-except-self&#x2F;product-of-array-except-self.java)|Medium|50.34%||
 |283|[move-zeroes](https://leetcode.com/problems/move-zeroes/)| [java](.&#x2F;solutions&#x2F;283.move-zeroes&#x2F;move-zeroes.java)|Easy|51.49%||
+|287|[find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number/)| [java](.&#x2F;solutions&#x2F;287.find-the-duplicate-number&#x2F;find-the-duplicate-number.java)|Medium|44.34%||
+|337|[house-robber-iii](https://leetcode.com/problems/house-robber-iii/)| [java](.&#x2F;solutions&#x2F;337.house-robber-iii&#x2F;house-robber-iii.java)|Medium|44.76%||
 |338|[counting-bits](https://leetcode.com/problems/counting-bits/)| [java](.&#x2F;solutions&#x2F;338.counting-bits&#x2F;counting-bits.java)|Medium|62.24%||
+|347|[top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements/)| [java](.&#x2F;solutions&#x2F;347.top-k-frequent-elements&#x2F;top-k-frequent-elements.java)|Medium|49.64%||
 |406|[queue-reconstruction-by-height](https://leetcode.com/problems/queue-reconstruction-by-height/)| [java](.&#x2F;solutions&#x2F;406.queue-reconstruction-by-height&#x2F;queue-reconstruction-by-height.java)|Medium|56.49%||
 |437|[path-sum-iii](https://leetcode.com/problems/path-sum-iii/)| [java](.&#x2F;solutions&#x2F;437.path-sum-iii&#x2F;path-sum-iii.java)|Easy|40.13%||
 |438|[find-all-anagrams-in-a-string](https://leetcode.com/problems/find-all-anagrams-in-a-string/)| [java](.&#x2F;solutions&#x2F;438.find-all-anagrams-in-a-string&#x2F;find-all-anagrams-in-a-string.java)|Easy|33.90%||
 |448|[find-all-numbers-disappeared-in-an-array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)| [java](.&#x2F;solutions&#x2F;448.find-all-numbers-disappeared-in-an-array&#x2F;find-all-numbers-disappeared-in-an-array.java)|Easy|51.12%||
 |461|[hamming-distance](https://leetcode.com/problems/hamming-distance/)| [java](.&#x2F;solutions&#x2F;461.hamming-distance&#x2F;hamming-distance.java)|Easy|69.55%||
+|494|[target-sum](https://leetcode.com/problems/target-sum/)| [java](.&#x2F;solutions&#x2F;494.target-sum&#x2F;target-sum.java)|Medium|43.84%||
 |538|[convert-bst-to-greater-tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)| [java](.&#x2F;solutions&#x2F;538.convert-bst-to-greater-tree&#x2F;convert-bst-to-greater-tree.java)|Easy|48.75%||
 |543|[diameter-of-binary-tree](https://leetcode.com/problems/diameter-of-binary-tree/)| [java](.&#x2F;solutions&#x2F;543.diameter-of-binary-tree&#x2F;diameter-of-binary-tree.java)|Easy|44.96%||
 |572|[subtree-of-another-tree](https://leetcode.com/problems/subtree-of-another-tree/)| [java](.&#x2F;solutions&#x2F;572.subtree-of-another-tree&#x2F;subtree-of-another-tree.java)|Easy|40.19%||
